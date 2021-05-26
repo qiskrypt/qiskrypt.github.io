@@ -20,7 +20,7 @@ The aim of our _framework_ is to provide all the known _quantum cryptographic pr
 
 The mission of our team is to:
 * Emphatize the importance of _Quantum Cryptography_, as a long-term solution for the _Post-Quantum Era_.
-* Provide _open-source_ implementations of _quantum cryptographic protocols_, including **Quantum Key Distributions** (**QKDs**), **Semi-Quantum Key Distribution** (**SQKDs**), **Quantum Conference Key Agreements** (**(QCKAs)**), **Semi-Quantum Conference Key Agreements** (**SQCKAs**), **Quantum One-Time Pads** (**QOTPs**).
+* Provide _open-source_ implementations of _quantum cryptographic protocols_, including **Quantum Key Distributions** (**QKDs**), **Semi-Quantum Key Distribution** (**SQKDs**), **Quantum Conference Key Agreements** (**QCKAs**), **Semi-Quantum Conference Key Agreements** (**SQCKAs**), **Quantum One-Time Pads** (**QOTPs**).
 * Provide an easy and comprehensive detailed explanation of the protocols addressed, through several illustrations and tutorials.
 
 ## Meet our team
