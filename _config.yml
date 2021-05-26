@@ -35,6 +35,7 @@ logo: "/assets/images/logos/PNGs/qiskrypt-logo-big.png"
 # Build settings
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
 
