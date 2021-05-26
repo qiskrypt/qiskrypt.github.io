@@ -8,22 +8,22 @@ permalink: /about/
 
 ***
 
-The [**Qiskrypt**](https://qiskrypt.github.io/) is a suite of protocols of _quantum cryptography_ built, using the [**_IBM_**](https://www.ibm.com/)'s _open-source_ _Software Development Kit_ for _quantum computing_ [**_Qiskit_**](https://qiskit.org/).
+The [**Qiskrypt**](https://qiskrypt.github.io/) is a suite of protocols of _quantum cryptography_ built, using the [**IBM**](https://www.ibm.com/)'s _open-source_ _Software Development Kit_ for _quantum computing_ [**Qiskit**](https://qiskit.org/).
 
-## **_Foundation_**
+## Foundation
 
-This _framework_ started as a proposal for the [**_IBM_**](https://www.ibm.com/) [**_Hackathon Europe 2021_**](https://qiskithackathoneurope.bemyapp.com/), achieving the last phase of the _Hackathon_ (top 20 teams).
+This _framework_ started as a proposal for the [**IBM**](https://www.ibm.com/) [**Hackathon Europe 2021**](https://qiskithackathoneurope.bemyapp.com/), achieving the last phase of the _Hackathon_ (top 20 teams).
 
-The aim of our _framework_ is to provide all the known _quantum cryptography protocols_, in a single place, as an accessible solution, and being easy to use.
+The aim of our _framework_ is to provide all the known _quantum cryptographic protocols_, in a single place, as an accessible solution, and being easy to use.
 
-## **_Mission_**
+## Mission
 
 The _mission_ of our _project_ is to:
 * Emphatize the importance of _Quantum Cryptography_, as a long-term solution for the _Post-Quantum Era_.
 * Provide _open-source_ implementations of _quantum cryptographic protocols_, including the latest trends on this topic.
 
-## **_Meet our team_**
+## Meet our team
 
-## **_Powered by_**
+## Powered by
 
-## **_Contact us_**
+## Contact us
