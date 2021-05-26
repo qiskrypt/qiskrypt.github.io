@@ -90,6 +90,13 @@ $base-button-color: #f7f7f7 !default;
 // Spacing
 //
 
+
+// Increase the side bar width as some of the page titles don't fit in the default size.
+$nav-width: 284px;
+
+// Increase the main content area width as some tables assume a larger size.
+$content-width: 900px;
+
 $spacing-unit: 1rem; // 1rem == 16px
 
 $spacers: (
