@@ -8,7 +8,7 @@ permalink: about
 
 ***
 
-The [**Qiskrypt**](https://qiskrypt.github.io/) is a suite of protocols of _quantum cryptography_ built, using the [**IBM**](https://www.ibm.com/)'s _open-source_ _Software Development Kit_ for _quantum computing_ [**Qiskit**](https://qiskit.org/).
+The [**Qiskrypt**](https://qiskrypt.github.io/) is a software suite of protocols of _quantum cryptography_ built, using the [**IBM**](https://www.ibm.com/)'s _open-source_ _Software Development Kit_ for _quantum computing_ [**Qiskit**](https://qiskit.org/).
 
 ## Foundation
 
@@ -20,10 +20,15 @@ The aim of our _framework_ is to provide all the known _quantum cryptographic pr
 
 The mission of our team is to:
 * Emphatize the importance of _Quantum Cryptography_, as a long-term solution for the _Post-Quantum Era_.
-* Provide _open-source_ implementations of _quantum cryptographic protocols_, including the latest trends on this topic.
+* Provide _open-source_ implementations of _quantum cryptographic protocols_, including **Quantum Key Distributions** (**QKDs**), **Semi-Quantum Key Distribution** (**SQKDs**), **Quantum Conference Key Agreements** (**(QCKAs)**), **Semi-Quantum Conference Key Agreements** (**SQCKAs**), **Quantum One-Time Pads** (**QOTPs**).
+* Provide an easy and comprehensive detailed explanation of the protocols addressed, through several illustrations and tutorials.
 
 ## Meet our team
 
+Our team is composed by the following members:
+
 ## Powered by
+
+This framework is powered by:
 
 ## Contact us
