@@ -18,7 +18,7 @@ The aim of our _framework_ is to provide all the known _quantum cryptographic pr
 
 ## Mission
 
-The _mission_ of our _project_ is to:
+The mission of our team is to:
 * Emphatize the importance of _Quantum Cryptography_, as a long-term solution for the _Post-Quantum Era_.
 * Provide _open-source_ implementations of _quantum cryptographic protocols_, including the latest trends on this topic.
 
