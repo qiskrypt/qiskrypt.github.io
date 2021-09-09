@@ -5,53 +5,118 @@ permalink: about
 nav_order: 6
 ---
 
-# **About**
+<h1><b>About</b></h1>
 
-***
+<hr>
 
-The [**Qis|krypt⟩**](https://qiskrypt.github.io/) is a software suite of protocols of _quantum cryptography_ and _quantum communications_, as well, other _protocols_ and _algorithms_, built using [**IBM**](https://www.ibm.com/)’s _open-source_ _Software Development Kit_ for _quantum computing_ [**Qiskit**](https://qiskit.org/).
+The <a href="https://qiskrypt.github.io/" target="_blank"><b>Qis|krypt⟩</b></a> is a software suite of protocols of <i>quantum cryptography</i> and <i>quantum communications</i>, as well, other <i>protocols</i> and <i>algorithms</i>, built using <a href="https://www.ibm.com/" target="_blank"><b>IBM</b></a>'s <i>open-source</i> <i>Software Development Kit</i> for <i>quantum computing</i> <a href="https://qiskit.org/" target="_blank"><b>Qiskit</b></a>.
 
-## Foundation
+<h2>Foundation</h2>
 
-This _framework_ started as a proposal for the [**IBM**](https://www.ibm.com/) [**Hackathon Europe 2021**](https://qiskithackathoneurope.bemyapp.com/), achieving its 2nd phase (finals, with the top 20 teams), as well, as an idea developed by a team of students, researchers, and professors, mostly from [**NOVA School of Science and Technology, NOVA University of Lisbon**](https://www.fct.unl.pt/en), [**Técnico Lisboa, University of Lisbon**](https://tecnico.ulisboa.pt/en/), [**Faculty of Sciences, University of Lisbon**](https://ciencias.ulisboa.pt/en), [**Instituto de Telecomunicações (IT)**](https://www.it.pt/), [**Security and Quantum Information Group (SQIG)**](https://sqigmath.tecnico.ulisboa.pt/), [**Laboratório de Sistemas de Grande Escala (LASIGE)**](https://www.lasige.pt/), [**UT Austin Portugal**](https://utaustinportugal.org/) and [**School of Engineering, University of Connecticut**](https://www.engr.uconn.edu/).
+This <i>framework</i> started as a proposal for the <a href="https://www.ibm.com/" target="_blank"><b>IBM</b></a> <a href="https://qiskithackathoneurope.bemyapp.com/" target="_blank"><b>Hackathon Europe 2021</b></a>, achieving its 2nd phase (finals, with the top 20 teams), as well, as an idea developed by a team of students, researchers, and professors, mostly from <a href="https://www.fct.unl.pt/en" target="_blank"><b>NOVA School of Science and Technology, NOVA University of Lisbon</b></a>, <a href="https://tecnico.ulisboa.pt/en/" target="_blank"><b>Técnico Lisboa, University of Lisbon</b></a>, <a href="https://ciencias.ulisboa.pt/en" target="_blank"><b>Faculty of Sciences, University of Lisbon</b>, <a href="https://www.it.pt/" target="_blank"><b>Instituto de Telecomunicações (IT)</b>, <a href="https://sqigmath.tecnico.ulisboa.pt/" target="_blank"><b>Security and Quantum Information Group (SQIG)</b>, <a href="https://www.lasige.pt/" target="_blank"><b>Laboratório de Sistemas de Grande Escala (LASIGE)</b></a>, <a href="https://utaustinportugal.org/" target="_blank"><b>UT Austin Portugal</b></a> and <a href="https://www.engr.uconn.edu/" target="_blank"><b>School of Engineering, University of Connecticut</b></a>.
 
-Our _framework_ aims to provide all the known _quantum cryptographic protocols_, in a single place, as an accessible solution, being easy to use.
+Our <i>framework</i> aims to provide all the known <i>quantum cryptographic protocols</i>, in a single place, as an accessible solution, being easy to use.
 
-## Mission
+<h2>Mission</h2>
 
 The mission of our framework is to:
-* Emphasize the importance of _quantum cryptography_, as the better solution for the long-term, in the _post-quantum era_;
-* Provide _open-source_ implementations of _quantum cryptographic protocols_, including:
-  * **Key Distributions/Agreements**:
-    * **Quantum Key Distributions** (**QKDs**); 
-    * **Semi-Quantum Key Distribution** (**SQKDs**);
-    * **Quantum Conference Key Agreements** (**QCKAs**);
-    * **Semi-Quantum Conference Key Agreements** (**SQCKAs**);
-  * **Quantum Secure Multiparty Computations**
-  * **Quantum Symmetric Encryption**;
-  * **Quantum Zero-Knowledge Proofs**;
-  * **Quantum Data Authentication**:
-    * **Quantum Data Signature**;
-    * **Quantum Message Authentication**;
-  * **Quantum Data Integrity**:
-  * **Quantum Cryptocurrencies**;
-* Offer some important primitives for _quantum communications_ and _quantum networks_, such as:
-  * **Quantum Teleportation**;
-  * **Quantum Entanglement Swapping**;
-  * **Quantum Entanglement Distillation/Purification**;
-  * **Quantum Repeaters**;
-  * **Quantum Internet/Network Protocols**;
-* Offer, as well, some _quantum algorithms_ for _quantum_ _cryptanalysis_ and _quantum_ _attacks_, such as:
-  * **Grover's Algorithm**;
-  * **Simon's Algorithm**;
-  * **Shor's Algorithm**;
-* Provide an easy and comprehensive detailed explanation of the protocols, primitives, and algorithms addressed, through several illustrations and tutorials;
+<ul>
+    <li>
+        Emphasize the importance of _quantum cryptography_, as the better solution for the long-term, in the _post-quantum era_;
+    </li>
+    <li>
+        Provide _open-source_ implementations of _quantum cryptographic protocols_, including:
+        <ul>
+            <li>
+                <b>Key Distributions/Agreements</b>:
+            </li>
+            <ul>
+                <li>
+                    <b>Quantum Key Distributions</b> (<b>QKDs</b>);
+                </li>
+                <li>
+                    <b>Semi-Quantum Key Distributions</b> (<b>SQKDs</b>);
+                </li>
+                <li>
+                    <b>Quantum Conference Key Agreements</b> (<b>QCKAs</b>);
+                </li>
+                <li>
+                    <b>Semi-Quantum Conference Key Agreements</b> (<b>SQCKAs</b>);
+                </li>
+            </ul>
+            <li>
+                <b>Quantum Secure Multiparty Computations</b>;
+            </li>
+            <li>
+                <b>Quantum Symmetric Encryption</b>;
+            </li>
+            <li>
+                <b>Quantum Zero-Knowledge Proofs</b>;
+            </li>
+            <li>
+                <b>Quantum Data Authentication</b>:
+                <ul>
+                    <li>
+                        <b>Quantum Data Signature</b> (<b>QDS</b>);
+                    </li>
+                    <li>
+                        <b>Quantum Message Authentication</b>;
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <b>Quantum Data Integrity</b>;
+            </li>
+            <li>
+                <b>Quantum Cryptocurrencies</b>;
+            </li>
+        </ul>
+    </li>
+    <li>
+        Offer some important primitives for <i>quantum communications</i> and <i>quantum networks</i>, such as:
+        <ul>
+            <li>
+                <b>Quantum Teleportation</b>;
+            </li>
+            <li>
+              <b>Quantum Entanglement Swapping</b>;
+            </li>
+            <li>
+              <b>Quantum Entanglement Distillation/Purification</b>;
+            </li>
+            <li>
+              <b>Quantum Repeaters</b>;
+            </li>
+            <li>
+              <b>Quantum Internet/Network Protocols</b>;
+            </li>
+        </ul>
+    </li>
+    <li>
+        Offer, as well, some <i>quantum algorithms</i> for <i>quantum cryptanalysis</i> and <i>quantum attacks</i>, such as:
+    </li>
+    <ul>
+        <li>
+            <b>Grover's Algorithm;</b>
+        </li>
+        <li>
+            <b>Simon's Algorithm</b>;
+        </li>
+        <li>
+            <b>Shor's Algorithm</b>;
+        </li>
+    </ul>
+    <li>
+        Provide an easy and comprehensive detailed explanation of the protocols, primitives, and algorithms addressed, through several illustrations and tutorials;
+    </li>
+</ul>
 
-### Meet our team
+
+<h3>Meet our team</h3>
 
 Our team is composed by the following members:
 
-#### Contributors
+<h4>Contributors</h4>
 
 <table>
  <tr>
@@ -59,7 +124,7 @@ Our team is composed by the following members:
  </tr>
 <table>
 
-#### Acknowledgments
+<h4>Acknowledgments</h4>
 
 <table>
  <tr>
@@ -71,7 +136,8 @@ Our team is composed by the following members:
  </tr>
 <table>
 
-### Institutions involved
+
+<h3>Institutions involved</h3>
 
 The institutions involved in the development of this framework are:
 
@@ -115,7 +181,8 @@ The institutions involved in the development of this framework are:
  <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/institutions/PNGs/ut-austin-portugal.png" alt="UT Austin Portugal - Logo" width="20%">
 </a>
 
-### Powered by
+
+<h3>Powered by</h3>
 
 This framework is powered by:
 
@@ -132,7 +199,11 @@ This framework is powered by:
 </a>
 
 
-### Contact us
+<h3>Contact us</h3>
 
 If you have any doubt or want to give some suggestion, feel free to contact us:
-* [qiskrypt@gmail.com](mailto:qiskrypt@gmail.com)
+<ul>
+    <li>
+        <a href="mailto:qiskrypt@gmail.com">qiskrypt@gmail.com</a>
+    </li>
+</ul>
