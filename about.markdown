@@ -114,7 +114,7 @@ The mission of our framework is to:
 
 <h3>Meet our team</h3>
 
-<hr style="height:5pt; visibility:hidden;" />
+<hr style="height:0.5pt; visibility:hidden;" />
 
 Our team is composed by the following members:
 
@@ -145,7 +145,7 @@ Our team is composed by the following members:
 
 <h3>Institutions involved</h3>
 
-<hr style="height:5pt; visibility:hidden;" />
+<hr style="height:0.5pt; visibility:hidden;" />
 
 The institutions involved in the development of this framework are:
 
@@ -194,7 +194,7 @@ The institutions involved in the development of this framework are:
 
 <h3>Powered by</h3>
 
-<hr style="height:5pt; visibility:hidden;" />
+<hr style="height:0.5pt; visibility:hidden;" />
 
 This framework is powered by:
 
@@ -215,7 +215,7 @@ This framework is powered by:
 
 <h3>Contact us</h3>
 
-<hr style="height:5pt; visibility:hidden;" />
+<hr style="height:0.5pt; visibility:hidden;" />
 
 If you have any doubt or want to give some suggestion, feel free to contact us:
 <ul>
