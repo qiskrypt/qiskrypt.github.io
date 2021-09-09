@@ -14,6 +14,8 @@ nav_order: 1
     The <a href="https://qiskrypt.github.io/" target="_blank"><b>Qis|krypt⟩</b></a> is a software suite of protocols of <i>quantum cryptography</i> and <i>quantum communications</i>, as well, other <i>protocols</i> and <i>algorithms</i>, built using <a href="https://www.ibm.com/" target="_blank"><b>IBM</b></a>'s <i>open-source</i> <i>Software Development Kit</i> for <i>quantum computing</i> <a href="https://qiskit.org/" target="_blank"><b>Qiskit</b></a>.
 </p>
 
+<br>
+
 <p>
     Our <i>framework</i> is developed by a team from:
     <ul>
