@@ -120,7 +120,7 @@ The mission of our framework is to:
 
 Our team is composed by the following members:
 
-<br>
+<hr style="height:0px; visibility:hidden;" />
 
 <h4>Contributors</h4>
 
