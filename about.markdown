@@ -150,6 +150,7 @@ Our team is composed by the following members:
 The institutions involved in the development of this framework are:
 
 <br>
+<br>
 
 <a href="https://unl.pt/en/" target="_blank">
  <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/institutions/PNGs/nova-universidade-lisboa.png" alt="NOVA Universidade de Lisboa - Logo" width="20%">
@@ -198,6 +199,7 @@ The institutions involved in the development of this framework are:
 
 This framework is powered by:
 
+<br>
 <br>
 
 <a href="https://www.ibm.com/" target="_blank">
