@@ -45,3 +45,14 @@ nav_order: 1
         </li>
     </ul>
 </p>
+
+<br>
+
+<p>
+    Feel free to contact us:
+    <ul>
+        <li>
+            <a href="mailto:qiskrypt@gmail.com">qiskrypt@gmail.com</a>
+        </li>
+    </ul>
+</p>
