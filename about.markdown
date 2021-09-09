@@ -114,7 +114,12 @@ The mission of our framework is to:
 
 <h3>Meet our team</h3>
 
+<br>
+
 Our team is composed by the following members:
+
+<br>
+<br>
 
 <h4>Contributors</h4>
 
@@ -124,22 +129,27 @@ Our team is composed by the following members:
  </tr>
 <table>
 
+<br>
+<br>
+
 <h4>Acknowledgments</h4>
 
 <table>
- <tr>
-  <td align="center"><br/><a href="https://ciencias.ulisboa.pt/en/perfil/ansouto"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/andre-souto.png" width="120px;" alt=""/><br /><sub><b>Prof. André Souto</b></sub></a><br /><a href="https://ciencias.ulisboa.pt/en/perfil/ansouto" title="Personal Page - FCUL">👨‍🏫</a> <a href="https://www.lasige.pt/member/andre-souto/" title="Personal Page - LASIGE">🏢</a> <a href="https://www.it.pt/Members/Index/3168" title="Personal Page - IT">🏢</a> <a href="https://github.com/andrenunosouto" title="GitHub Profile">💻</a><br/><br/></td>
-  <td align="center"><br/><a href="https://sqig.math.tecnico.ulisboa.pt/pmat"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/paulo-mateus.png" width="120px;" alt=""/><br /><sub><b>Prof. Paulo Mateus</b></sub></a><br /><a href="https://math.tecnico.ulisboa.pt/professor?who=pmat" title="Personal Page - Técnico Lisboa">👨‍🏫</a> <a href="https://sqig.math.tecnico.ulisboa.pt/pmat" title="Personal Page - SQIG">🏢</a> <a href="https://www.it.pt/Members/Index/1900" title="Personal Page - IT">🏢</a><br/><br/></td>
-  <td align="center"><br/><a href="https://www.math.tecnico.ulisboa.pt/~npaunkov/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/nikola-paunkovic.png" width="120px;" alt=""/><br /><sub><b>Prof. Nikola Paunković</b></sub></a><br /><a href="https://www.math.tecnico.ulisboa.pt/~npaunkov/" title="Personal Page - Técnico Lisboa/SQIG">👨‍🏫</a> <a href="https://www.it.pt/Members/Index/1905" title="Personal Page - IT">🏢</a><br/><br/></td>
-  <td align="center"><br/><a href="http://www.walterkrawec.org/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/walter-krawec.png" width="120px;" alt=""/><br /><sub><b>Prof. Walter Krawec</b></sub></a><br /><a href="http://www.walterkrawec.org/" title="Personal Website">🌐</a> <br/><br/></td>
-  <td align="center"><br/><a href="http://ctp.di.fct.unl.pt/~aravara/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/antonio-ravara.png" width="120px;" alt=""/><br /><sub><b>Prof. António Ravara</b></sub></a><br /><a href="https://www.di.fct.unl.pt/en/pessoas/docentes/antonio-maria-lobo-cesar-alarcao-ravara" title="Personal Page - DI @ NOVA SST">👨‍🏫</a> <a href="https://nova-lincs.di.fct.unl.pt/person/47" title="Personal Page - NOVA LINCS">🏢</a> <a href="http://ctp.di.fct.unl.pt/~aravara/" title="Personal Page - NOVA SST">🌐</a> <a href="https://github.com/aravara" title="GitHub Profile">💻</a> <br/><br/></td>
- </tr>
+    <tr>
+        <td align="center"><br/><a href="https://ciencias.ulisboa.pt/en/perfil/ansouto"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/andre-souto.png" width="120px;" alt=""/><br /><sub><b>Prof. André Souto</b></sub></a><br /><a href="https://ciencias.ulisboa.pt/en/perfil/ansouto" title="Personal Page - FCUL">👨‍🏫</a> <a href="https://www.lasige.pt/member/andre-souto/" title="Personal Page - LASIGE">🏢</a> <a href="https://www.it.pt/Members/Index/3168" title="Personal Page - IT">🏢</a> <a href="https://github.com/andrenunosouto" title="GitHub Profile">💻</a><br/><br/></td>
+        <td align="center"><br/><a href="https://sqig.math.tecnico.ulisboa.pt/pmat"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/paulo-mateus.png" width="120px;" alt=""/><br /><sub><b>Prof. Paulo Mateus</b></sub></a><br /><a href="https://math.tecnico.ulisboa.pt/professor?who=pmat" title="Personal Page - Técnico Lisboa">👨‍🏫</a> <a href="https://sqig.math.tecnico.ulisboa.pt/pmat" title="Personal Page - SQIG">🏢</a> <a href="https://www.it.pt/Members/Index/1900" title="Personal Page - IT">🏢</a><br/><br/></td>
+        <td align="center"><br/><a href="https://www.math.tecnico.ulisboa.pt/~npaunkov/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/nikola-paunkovic.png" width="120px;" alt=""/><br /><sub><b>Prof. Nikola Paunković</b></sub></a><br /><a href="https://www.math.tecnico.ulisboa.pt/~npaunkov/" title="Personal Page - Técnico Lisboa/SQIG">👨‍🏫</a> <a href="https://www.it.pt/Members/Index/1905" title="Personal Page - IT">🏢</a><br/><br/></td>
+        <td align="center"><br/><a href="http://www.walterkrawec.org/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/walter-krawec.png" width="120px;" alt=""/><br /><sub><b>Prof. Walter Krawec</b></sub></a><br /><a href="http://www.walterkrawec.org/" title="Personal Website">🌐</a> <br/><br/></td>
+        <td align="center"><br/><a href="http://ctp.di.fct.unl.pt/~aravara/"><img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/team/acknowledgements/PNGs/antonio-ravara.png" width="120px;" alt=""/><br /><sub><b>Prof. António Ravara</b></sub></a><br /><a href="https://www.di.fct.unl.pt/en/pessoas/docentes/antonio-maria-lobo-cesar-alarcao-ravara" title="Personal Page - DI @ NOVA SST">👨‍🏫</a> <a href="https://nova-lincs.di.fct.unl.pt/person/47" title="Personal Page - NOVA LINCS">🏢</a> <a href="http://ctp.di.fct.unl.pt/~aravara/" title="Personal Page - NOVA SST">🌐</a> <a href="https://github.com/aravara" title="GitHub Profile">💻</a> <br/><br/></td>
+    </tr>
 <table>
 
 
 <h3>Institutions involved</h3>
 
 The institutions involved in the development of this framework are:
+
+<br>
 
 <a href="https://unl.pt/en/" target="_blank">
  <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/institutions/PNGs/nova-universidade-lisboa.png" alt="NOVA Universidade de Lisboa - Logo" width="20%">
@@ -185,6 +195,8 @@ The institutions involved in the development of this framework are:
 <h3>Powered by</h3>
 
 This framework is powered by:
+
+<br>
 
 <a href="https://www.ibm.com/" target="_blank">
  <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/powered-by/PNGs/ibm.png" alt="IBM - Logo" width="20%">
