@@ -22,10 +22,10 @@ Our <i>framework</i> aims to provide all the known <i>quantum cryptographic prot
 The mission of our framework is to:
 <ul>
     <li>
-        Emphasize the importance of _quantum cryptography_, as the better solution for the long-term, in the _post-quantum era_;
+        Emphasize the importance of <i>quantum cryptography</i>, as the better solution for the long-term, in the <i>post-quantum era</i>;
     </li>
     <li>
-        Provide _open-source_ implementations of _quantum cryptographic protocols_, including:
+        Provide <i>open-source</i> implementations of <i>quantum cryptographic protocols</i>, including:
         <ul>
             <li>
                 <b>Key Distributions/Agreements</b>:
