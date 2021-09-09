@@ -221,7 +221,7 @@ This framework is powered by:
 
 <hr style="height:0px; visibility:hidden;" />
 
-If you have any doubt or want to give some suggestion, feel free to contact us:
+If you have any doubt or want to give us some suggestion, feel free to contact us:
 <ul>
     <li>
         <a href="mailto:qiskrypt@gmail.com">qiskrypt@gmail.com</a>
