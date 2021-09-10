@@ -229,7 +229,7 @@ If you have any doubt or want to give us some suggestion, feel free to contact u
 </ul>
 
 
-## Copyright and License
+<h2>Copyright and License</h2>
 
 © Copyright 2021 by <a property="dct:title" rel="cc:attributionURL" href="https://github.com/qiskrypt/" target="_blank"><b>Qis|krypt⟩</b></a> and its contributors.
 
