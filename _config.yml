@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Qiskrypt
+title: Qis|krypt⟩
 email: ruben.andre.letra.barreiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Qiskrypt is a software suite of protocols of quantum cryptography built, using the IBM’s open-source Software Development Kit for quantum computing Qiskit.
+  The Qis|krypt⟩ is a software suite of protocols of quantum cryptography built, using the IBM’s open-source Software Development Kit for quantum computing Qiskit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qiskrypt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
