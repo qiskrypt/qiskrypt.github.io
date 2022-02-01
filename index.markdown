@@ -4,7 +4,7 @@
 
 layout: home
 title: Home
-permalink: 
+permalink:
 nav_order: 1
 ---
 
@@ -36,6 +36,9 @@ nav_order: 1
         </li>
         <li>
             <a href="https://www.lasige.pt/" target="_blank"><b>Laboratório de Sistemas de Grande Escala (LASIGE)</b></a>;
+        </li>
+        <li>
+            <a href="https://nova-lincs.di.fct.unl.pt/" target="_blank"><b>NOVA Laboratory for Computer Science and Informatics (NOVA LINCS)</b></a>;
         </li>
         <li>
             <a href="https://utaustinportugal.org/" target="_blank"><b>UT Austin Portugal</b></a>;
