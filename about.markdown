@@ -15,7 +15,7 @@ The <a href="https://qiskrypt.github.io/" target="_blank"><b>Qis|krypt⟩</b></a
 
 <h2>Foundation</h2>
 
-This <i>framework</i> started as a proposal for the <a href="https://www.ibm.com/" target="_blank"><b>IBM</b></a> <a href="https://qiskithackathoneurope.bemyapp.com/" target="_blank"><b>Hackathon Europe 2021</b></a>, achieving its 2nd phase (finals, with the top 20 teams), as well, as an idea developed by a team of students, researchers, and professors, mostly from <a href="https://www.fct.unl.pt/en" target="_blank"><b>NOVA School of Science and Technology, NOVA University of Lisbon</b></a>, <a href="https://tecnico.ulisboa.pt/en/" target="_blank"><b>Técnico Lisboa, University of Lisbon</b></a>, <a href="https://ciencias.ulisboa.pt/en" target="_blank"><b>Faculty of Sciences, University of Lisbon</b></a>, <a href="https://www.it.pt/" target="_blank"><b>Instituto de Telecomunicações (IT)</b></a>, <a href="https://sqigmath.tecnico.ulisboa.pt/" target="_blank"><b>Security and Quantum Information Group (SQIG)</b></a>, <a href="https://www.lasige.pt/" target="_blank"><b>Laboratório de Sistemas de Grande Escala (LASIGE)</b></a>, <a href="https://utaustinportugal.org/" target="_blank"><b>UT Austin Portugal</b></a> and <a href="https://www.engr.uconn.edu/" target="_blank"><b>School of Engineering, University of Connecticut (UCONN)</b></a>.
+This <i>framework</i> started as a proposal for the <a href="https://www.ibm.com/" target="_blank"><b>IBM</b></a> <a href="https://qiskithackathoneurope.bemyapp.com/" target="_blank"><b>Hackathon Europe 2021</b></a>, achieving its 2nd phase (finals, with the top 20 teams), as well, as an idea developed by a team of students, researchers, and professors, mostly from <a href="https://www.fct.unl.pt/en" target="_blank"><b>NOVA School of Science and Technology, NOVA University of Lisbon</b></a>, <a href="https://tecnico.ulisboa.pt/en/" target="_blank"><b>Técnico Lisboa, University of Lisbon</b></a>, <a href="https://ciencias.ulisboa.pt/en" target="_blank"><b>Faculty of Sciences, University of Lisbon</b></a>, <a href="https://www.it.pt/" target="_blank"><b>Instituto de Telecomunicações (IT)</b></a>, <a href="https://sqigmath.tecnico.ulisboa.pt/" target="_blank"><b>Security and Quantum Information Group (SQIG)</b></a>, <a href="https://www.lasige.pt/" target="_blank"><b>Laboratório de Sistemas de Grande Escala (LASIGE)</b></a>, <a href="https://nova-lincs.di.fct.unl.pt/" target="_blank"><b>NOVA Laboratory for Computer Science and Informatics (NOVA LINCS)</b></a>, <a href="https://utaustinportugal.org/" target="_blank"><b>UT Austin Portugal</b></a> and <a href="https://www.engr.uconn.edu/" target="_blank"><b>School of Engineering, University of Connecticut (UCONN)</b></a>.
 
 Our <i>framework</i> aims to provide all the known <i>quantum cryptographic protocols</i>, in a single place, as an accessible solution, being easy to use.
 
@@ -188,6 +188,10 @@ The institutions involved in the development of this framework are:
 &nbsp;&nbsp;
 <a href="https://www.it.pt/" target="_blank">
  <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/institutions/PNGs/instituto-telecomunicacoes.png" alt="Instituto de Telecomunicações - Logo" width="20%">
+</a>
+<br>
+<a href="https://nova-lincs.di.fct.unl.pt/" target="_blank">
+ <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/institutions/PNGs/nova-lincs.png" alt="NOVA LINCS - Logo" width="20%">
 </a>
 &nbsp;&nbsp;
 <a href="https://utaustinportugal.org/" target="_blank">
